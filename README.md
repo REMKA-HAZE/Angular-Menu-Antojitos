@@ -1,4 +1,4 @@
-# MenuAntojitosAngular
+# Menu Antojitos Angular 🥓🍳🍺
 
 **Frontend creado en la Universidad Tecnológica de Aguascalientes.**
 
